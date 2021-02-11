@@ -10,6 +10,11 @@
   inline std::string Str##EnumClassName(EnumClassName enumVal) {          \
     static bool inited{ false };                                          \
     static int offset{ 0 };                                               \
+    /*
+     * to reduce space consume, we can                                    
+     * make enumArgsStr pointer                                   
+     * after init finished, delete it                                     
+     */                                                                   \
     static std::mutex mtx;                                                \
     static std::string enumArgsStr = #EnumArgs;                           \
     static std::vector<std::string> enumStrV;                             \
