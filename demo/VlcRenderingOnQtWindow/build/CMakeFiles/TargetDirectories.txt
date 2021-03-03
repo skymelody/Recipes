@@ -1,0 +1,4 @@
+/home/skymelody/XSpace/TestArea/TestQtVlc/build/CMakeFiles/rebuild_cache.dir
+/home/skymelody/XSpace/TestArea/TestQtVlc/build/CMakeFiles/edit_cache.dir
+/home/skymelody/XSpace/TestArea/TestQtVlc/build/CMakeFiles/QtVlc.dir
+/home/skymelody/XSpace/TestArea/TestQtVlc/build/CMakeFiles/QtVlc_autogen.dir

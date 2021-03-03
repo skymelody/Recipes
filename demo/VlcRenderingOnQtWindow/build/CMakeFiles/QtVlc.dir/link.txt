@@ -1,0 +1,1 @@
+/usr/bin/c++  -D__STDC_CONSTANT_MACROS  -rdynamic CMakeFiles/QtVlc.dir/QtVlc_autogen/mocs_compilation.cpp.o CMakeFiles/QtVlc.dir/main.cc.o  -o QtVlc  /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.14.2 -lavcodec -lavformat -lavutil -lavfilter -lswscale -lvlc -lvlccore /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.14.2 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.14.2 
