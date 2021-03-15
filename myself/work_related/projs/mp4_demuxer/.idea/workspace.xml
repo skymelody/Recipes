@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Mp4ToH264" targetName="main" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46e85d1e-bd6b-467b-8ebd-92e8b7e194b8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="jwxgWgre" />
+  </component>
+  <component name="ProjectId" id="1Ujrf2u4mQqMQLcq4CrKU2GbWS7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.has.clang-format" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="&gt; out" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Mp4ToH264" TARGET_NAME="main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Mp4ToH264" RUN_TARGET_NAME="main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46e85d1e-bd6b-467b-8ebd-92e8b7e194b8" name="Default Changelist" comment="" />
+      <created>1575880944052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575880944052</updated>
+      <workItem from="1575880945552" duration="14392000" />
+      <workItem from="1575943967051" duration="279000" />
+      <workItem from="1575944270085" duration="25391000" />
+      <workItem from="1576025746372" duration="4697000" />
+      <workItem from="1576041838754" duration="985000" />
+      <workItem from="1576050416207" duration="79000" />
+      <workItem from="1576052800782" duration="3070000" />
+      <workItem from="1576132143166" duration="63479000" />
+      <workItem from="1576470786025" duration="736000" />
+      <workItem from="1576481218453" duration="44000" />
+      <workItem from="1576481276368" duration="14487000" />
+      <workItem from="1576505248087" duration="6541000" />
+      <workItem from="1576544591665" duration="20415000" />
+      <workItem from="1576573760544" duration="29861000" />
+      <workItem from="1576676518557" duration="24582000" />
+      <workItem from="1576717402381" duration="46000" />
+      <workItem from="1576717465800" duration="8560000" />
+      <workItem from="1576738709718" duration="60000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="398" y="212" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576509549595">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="398" y="212" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1576509549595" />
+    <state x="450" y="212" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.28.1855.1052/1920.0.1920.1080@65.28.1855.1052" timestamp="1576218991123" />
+    <state x="1124" y="341" width="411" height="601" key="#com.intellij.ide.util.MemberChooser" timestamp="1576701228661">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="1124" y="341" width="411" height="601" key="#com.intellij.ide.util.MemberChooser/0.28.1920.1052@0.28.1920.1052" timestamp="1576701228661" />
+    <state x="1151" y="341" width="428" height="562" key="#com.intellij.ide.util.MemberChooser/65.28.1855.1052/1920.0.1920.1080@65.28.1855.1052" timestamp="1576134584224" />
+    <state x="725" y="303" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576293570675">
+      <screen x="65" y="28" width="1855" height="1052" />
+    </state>
+    <state x="725" y="303" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/65.28.1855.1052/1920.0.1920.1080@65.28.1855.1052" timestamp="1576293570675" />
+    <state x="844" y="256" width="286" height="595" key="#xdebugger.evaluate" timestamp="1576236638634">
+      <screen x="65" y="28" width="1855" height="1052" />
+    </state>
+    <state x="844" y="256" width="286" height="595" key="#xdebugger.evaluate/65.28.1855.1052/1920.0.1920.1080@65.28.1855.1052" timestamp="1576236638634" />
+    <state x="2621" y="408" width="490" height="258" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1576640199550">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2621" y="408" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/65.28.1855.1052/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576640199550" />
+    <state x="742" y="425" width="490" height="258" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/65.28.1855.1052/1920.0.1920.1080@65.28.1855.1052" timestamp="1576220946681" />
+    <state width="491" height="466" key="DebuggerActiveHint" timestamp="1576698949264">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="491" height="466" key="DebuggerActiveHint/0.28.1920.1052@0.28.1920.1052" timestamp="1576698949264" />
+    <state x="165" y="128" width="1655" height="852" key="DiffContextDialog" timestamp="1576208750916">
+      <screen x="65" y="28" width="1855" height="1052" />
+    </state>
+    <state x="165" y="128" width="1655" height="852" key="DiffContextDialog/65.28.1855.1052/1920.0.1920.1080@65.28.1855.1052" timestamp="1576208750916" />
+    <state x="735" y="312" width="424" height="484" key="FileChooserDialogImpl" timestamp="1576507100913">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="735" y="312" key="FileChooserDialogImpl/0.28.1920.1052@0.28.1920.1052" timestamp="1576507100913" />
+    <state x="775" y="312" width="424" height="484" key="FileChooserDialogImpl/65.28.1855.1052/1920.0.1920.1080@65.28.1855.1052" timestamp="1576218987872" />
+    <state width="1809" height="358" key="GridCell.Tab.0.bottom" timestamp="1576736407768">
+      <screen x="65" y="28" width="1855" height="1052" />
+    </state>
+    <state width="1874" height="455" key="GridCell.Tab.0.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1576701619950" />
+    <state width="1817" height="277" key="GridCell.Tab.0.bottom/57.28.1863.1052@57.28.1863.1052" timestamp="1576506394484" />
+    <state width="1874" height="370" key="GridCell.Tab.0.bottom/65.28.1855.1052/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576669734974" />
+    <state width="1809" height="358" key="GridCell.Tab.0.bottom/65.28.1855.1052/1920.0.1920.1080@65.28.1855.1052" timestamp="1576736407768" />
+    <state width="1809" height="358" key="GridCell.Tab.0.center" timestamp="1576736407768">
+      <screen x="65" y="28" width="1855" height="1052" />
+    </state>
+    <state width="1874" height="455" key="GridCell.Tab.0.center/0.28.1920.1052@0.28.1920.1052" timestamp="1576701619949" />
+    <state width="1817" height="277" key="GridCell.Tab.0.center/57.28.1863.1052@57.28.1863.1052" timestamp="1576506394484" />
+    <state width="1874" height="370" key="GridCell.Tab.0.center/65.28.1855.1052/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576669734974" />
+    <state width="1809" height="358" key="GridCell.Tab.0.center/65.28.1855.1052/1920.0.1920.1080@65.28.1855.1052" timestamp="1576736407768" />
+    <state width="1809" height="358" key="GridCell.Tab.0.left" timestamp="1576736407768">
+      <screen x="65" y="28" width="1855" height="1052" />
+    </state>
+    <state width="1874" height="455" key="GridCell.Tab.0.left/0.28.1920.1052@0.28.1920.1052" timestamp="1576701619948" />
+    <state width="1817" height="277" key="GridCell.Tab.0.left/57.28.1863.1052@57.28.1863.1052" timestamp="1576506394483" />
+    <state width="1874" height="370" key="GridCell.Tab.0.left/65.28.1855.1052/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576669734974" />
+    <state width="1809" height="358" key="GridCell.Tab.0.left/65.28.1855.1052/1920.0.1920.1080@65.28.1855.1052" timestamp="1576736407768" />
+    <state width="1809" height="358" key="GridCell.Tab.0.right" timestamp="1576736407768">
+      <screen x="65" y="28" width="1855" height="1052" />
+    </state>
+    <state width="1874" height="455" key="GridCell.Tab.0.right/0.28.1920.1052@0.28.1920.1052" timestamp="1576701619949" />
+    <state width="1817" height="277" key="GridCell.Tab.0.right/57.28.1863.1052@57.28.1863.1052" timestamp="1576506394484" />
+    <state width="1874" height="370" key="GridCell.Tab.0.right/65.28.1855.1052/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576669734974" />
+    <state width="1809" height="358" key="GridCell.Tab.0.right/65.28.1855.1052/1920.0.1920.1080@65.28.1855.1052" timestamp="1576736407768" />
+    <state width="1809" height="358" key="GridCell.Tab.1.bottom" timestamp="1576736407768">
+      <screen x="65" y="28" width="1855" height="1052" />
+    </state>
+    <state width="1874" height="455" key="GridCell.Tab.1.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1576701619953" />
+    <state width="1817" height="283" key="GridCell.Tab.1.bottom/57.28.1863.1052@57.28.1863.1052" timestamp="1576505624434" />
+    <state width="1874" height="370" key="GridCell.Tab.1.bottom/65.28.1855.1052/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576669734974" />
+    <state width="1809" height="358" key="GridCell.Tab.1.bottom/65.28.1855.1052/1920.0.1920.1080@65.28.1855.1052" timestamp="1576736407768" />
+    <state width="1809" height="358" key="GridCell.Tab.1.center" timestamp="1576736407768">
+      <screen x="65" y="28" width="1855" height="1052" />
+    </state>
+    <state width="1874" height="455" key="GridCell.Tab.1.center/0.28.1920.1052@0.28.1920.1052" timestamp="1576701619952" />
+    <state width="1817" height="283" key="GridCell.Tab.1.center/57.28.1863.1052@57.28.1863.1052" timestamp="1576505624434" />
+    <state width="1874" height="370" key="GridCell.Tab.1.center/65.28.1855.1052/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576669734974" />
+    <state width="1809" height="358" key="GridCell.Tab.1.center/65.28.1855.1052/1920.0.1920.1080@65.28.1855.1052" timestamp="1576736407768" />
+    <state width="1809" height="358" key="GridCell.Tab.1.left" timestamp="1576736407768">
+      <screen x="65" y="28" width="1855" height="1052" />
+    </state>
+    <state width="1874" height="455" key="GridCell.Tab.1.left/0.28.1920.1052@0.28.1920.1052" timestamp="1576701619952" />
+    <state width="1817" height="283" key="GridCell.Tab.1.left/57.28.1863.1052@57.28.1863.1052" timestamp="1576505624433" />
+    <state width="1874" height="370" key="GridCell.Tab.1.left/65.28.1855.1052/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576669734974" />
+    <state width="1809" height="358" key="GridCell.Tab.1.left/65.28.1855.1052/1920.0.1920.1080@65.28.1855.1052" timestamp="1576736407768" />
+    <state width="1809" height="358" key="GridCell.Tab.1.right" timestamp="1576736407768">
+      <screen x="65" y="28" width="1855" height="1052" />
+    </state>
+    <state width="1874" height="455" key="GridCell.Tab.1.right/0.28.1920.1052@0.28.1920.1052" timestamp="1576701619952" />
+    <state width="1817" height="283" key="GridCell.Tab.1.right/57.28.1863.1052@57.28.1863.1052" timestamp="1576505624434" />
+    <state width="1874" height="370" key="GridCell.Tab.1.right/65.28.1855.1052/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576669734974" />
+    <state width="1809" height="358" key="GridCell.Tab.1.right/65.28.1855.1052/1920.0.1920.1080@65.28.1855.1052" timestamp="1576736407768" />
+    <state x="454" y="171" key="SettingsEditor" timestamp="1576676930747">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="454" y="171" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1576676930747" />
+    <state x="477" y="189" key="SettingsEditor/57.28.1863.1052@57.28.1863.1052" timestamp="1576505334578" />
+    <state x="165" y="128" width="1655" height="852" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1576208750916">
+      <screen x="65" y="28" width="1855" height="1052" />
+    </state>
+    <state x="165" y="128" width="1655" height="852" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/65.28.1855.1052/1920.0.1920.1080@65.28.1855.1052" timestamp="1576208750916" />
+    <state x="165" y="128" width="1655" height="852" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1576208669330">
+      <screen x="65" y="28" width="1855" height="1052" />
+    </state>
+    <state x="165" y="128" width="1655" height="852" key="com.intellij.history.integration.ui.views.FileHistoryDialog/65.28.1855.1052/1920.0.1920.1080@65.28.1855.1052" timestamp="1576208669330" />
+    <state x="644" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1576505250584">
+      <screen x="57" y="28" width="1863" height="1052" />
+    </state>
+    <state x="644" y="381" key="com.intellij.ide.util.TipDialog/57.28.1863.1052@57.28.1863.1052" timestamp="1576505250584" />
+    <state x="389" y="228" width="1020" height="673" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1576686552577">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="389" y="228" width="1020" height="673" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.28.1920.1052@0.28.1920.1052" timestamp="1576686552577" />
+    <state x="2309" y="205" width="488" height="623" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/65.28.1855.1052/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576550053440" />
+    <state x="441" y="228" width="1092" height="651" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/65.28.1855.1052/1920.0.1920.1080@65.28.1855.1052" timestamp="1576462409365" />
+    <state x="478" y="290" width="921" height="522" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1576700079828">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="478" y="290" width="921" height="522" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.28.1920.1052@0.28.1920.1052" timestamp="1576700079828" />
+    <state x="521" y="293" width="921" height="522" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/57.28.1863.1052@57.28.1863.1052" timestamp="1576505575585" />
+    <state x="2398" y="272" width="921" height="522" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/65.28.1855.1052/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576650526238" />
+    <state x="527" y="293" width="921" height="522" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/65.28.1855.1052/1920.0.1920.1080@65.28.1855.1052" timestamp="1576470574027" />
+    <state x="704" y="197" width="501" height="713" key="refactoring.ChangeSignatureDialog" timestamp="1576678941682">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="704" y="197" width="501" height="713" key="refactoring.ChangeSignatureDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1576678941682" />
+    <state x="611" y="260" width="672" height="661" key="search.everywhere.popup" timestamp="1576693041959">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="611" y="260" width="672" height="661" key="search.everywhere.popup/0.28.1920.1052@0.28.1920.1052" timestamp="1576693041959" />
+    <state x="2531" y="238" width="672" height="678" key="search.everywhere.popup/65.28.1855.1052/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576545150471" />
+    <state x="655" y="260" key="search.everywhere.popup/65.28.1855.1052/1920.0.1920.1080@65.28.1855.1052" timestamp="1576233319750" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/AvcFrameParser.cc</url>
+          <line>733</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/AvcFrameParser.cc</url>
+          <line>816</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/AvcFrameParser.cc</url>
+          <line>426</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/AvcFrameParser.cc</url>
+          <line>436</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Box.h</url>
+          <line>17</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/AvcFrameParser.cc</url>
+          <line>424</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="this-&gt;buffer" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

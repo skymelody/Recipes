@@ -1,0 +1,9 @@
+{
+    "listening_port" : 9080,
+    "thread_num" : 4,
+    "http_timeout" : 60000000,
+    "max_connection_queued" : 10000,
+    "upload_file_saved_directory" : "/home/skymelody/WorkSpace/Code/project/build/upload_file/",
+    "converted_file_saved_directory" : "/home/skymelody/WorkSpace/Code/project/build/converted_file/",
+    "supported_video_types" : [".mp4", ".flv", ".mkv", ".wmv"] 
+}
